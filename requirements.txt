@@ -29,3 +29,4 @@ stripe==12.3.0
 tqdm==4.67.1
 typing_extensions==4.14.1
 urllib3==1.26.20
+psycopg
